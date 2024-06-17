@@ -2,6 +2,8 @@
 
 This is the first machine learning project I completed in 2020, focusing on assisting financial institutions in determining whether to approve loan applications. The goal is to help banks enhance their profit margins while minimizing risk exposure.
 
+**Dataset in use:** [Credit Card Dataset on Kaggle](https://www.kaggle.com/datasets/mishra5001/credit-card)
+
 ## Project Overview
 
 I developed and evaluated several machine learning models to predict loan defaults, including:
